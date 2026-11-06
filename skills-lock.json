@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "dr-jskill": {
+      "source": "jdubois/dr-jskill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "371bc6eda1acfba626e3686c3aa24b7ab6fa21c1cf690631c7fd077d8045ee95"
+    },
+    "java-testing": {
+      "source": "pluginagentmarketplace/custom-plugin-java",
+      "sourceType": "github",
+      "skillPath": "skills/java-testing/SKILL.md",
+      "computedHash": "e58bdbcc271dfc689ce8b67c54a6dade5bcfb7c2c68e2615be2b39b8915ac1a0"
+    }
+  }
+}
